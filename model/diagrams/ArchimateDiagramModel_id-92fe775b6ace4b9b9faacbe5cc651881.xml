@@ -327,15 +327,15 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b5a89e649e0241bba36e7342516f391a"
+      id="id-f96779aa0084410f917970a987418a54"
       textPosition="1">
     <bounds
-        x="902"
-        y="218"
+        x="814"
+        y="194"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-f40902a7db5548a3884ae7e44ba7a564.xml#id-f40902a7db5548a3884ae7e44ba7a564"/>
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-d637c9280e534425b6c20be32770febf.xml#id-d637c9280e534425b6c20be32770febf"/>
   </children>
 </archimate:ArchimateDiagramModel>
