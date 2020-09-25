@@ -203,7 +203,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e98b974a801f4a24bc2080d373450c93"
       targetConnections="id-a70a2a4fe25f4d0c9d4eea016d486428 id-0c2a2a5874b14a589136f5079077dc63 id-985e517880484a71898a943d2322dcd5"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4eba3670731e4e248ada188a27788e17"
