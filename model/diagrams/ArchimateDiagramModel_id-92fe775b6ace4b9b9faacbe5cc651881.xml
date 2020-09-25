@@ -298,6 +298,9 @@
       id="id-ecf631e6b52745a6be393b73dd649491"
       targetConnections="id-92598f9fcb2744d1ab71b92ebffa093c"
       textPosition="1">
+    <features
+        name="gradient"
+        value="0"/>
     <bounds
         x="468"
         y="588"
