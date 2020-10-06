@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Archimate collaboration"
+    name="Archi Collaboration (GIT flow)"
     id="id-92fe775b6ace4b9b9faacbe5cc651881">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -300,7 +300,7 @@
       textPosition="1">
     <bounds
         x="468"
-        y="588"
+        y="600"
         width="120"
         height="55"/>
     <archimateElement
@@ -588,7 +588,7 @@
           href="ServingRelationship_id-8e3c7a5ea1314bd1a37a4b1c6810bd20.xml#id-8e3c7a5ea1314bd1a37a4b1c6810bd20"/>
     </sourceConnections>
     <bounds
-        x="1008"
+        x="1020"
         y="192"
         width="120"
         height="55"/>

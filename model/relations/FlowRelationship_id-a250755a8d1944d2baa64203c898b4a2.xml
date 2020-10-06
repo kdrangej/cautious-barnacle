@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="push/pull"
     id="id-a250755a8d1944d2baa64203c898b4a2">
   <source
       xsi:type="archimate:BusinessProcess"
