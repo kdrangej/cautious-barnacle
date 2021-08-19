@@ -1,2 +1,2 @@
 # cautious-barnacle
-Test repository for arcie+archimate models
+Test repository for archie+archimate models
